@@ -1,5 +1,5 @@
 # 職務経歴書
-最終更新日：2025-05-22
+最終更新日：2025-12-07
 ## 関連資料
 [個人データ](personal-data.md)  
 [スキルシート](/skill-sheet.md)  
@@ -11,6 +11,7 @@
 - 現在は副業でもアプリ開発に取り組みつつ、チーム開発では技術リードとして活動中
 
 ## 🔍 プロジェクト要約一覧
+- スキル管理・人材マッチング（WEBアプリ）｜初の本格的なWEBアプリとAIをフル活用した開発経験
 - ヘルスアプリ業務｜HealthKit/Health Connectを用いたiOS/Androidヘルスアプリの実装経験
 - DCS業務｜制御業務の上流〜下流工程の一括対応・ノーコード開発の経験
 - ドライファンアプリ｜BLE通信＋AWS＋UI/UXで機器制御アプリを一貫開発
@@ -34,8 +35,8 @@
 -->
 
 ## 職務経歴
-### 📱 スキル管理・人材マッチングプラットフォーム(WEBアプリ)
-**未記入**
+### 📱 スキル管理・人材マッチングプラットフォーム（WEBアプリ）
+**幅広い技術を触り、個人として本格的なWEB開発を行い、AI駆動開発で最大効率の開発をする知見を得た**
 
 **会社名**：[株式会社Ambient Lab](https://corp.ambient-lab.co.jp/)｜業務委託（フルリモート）  
 **期間**：2025-08-07〜2025-12-14  
@@ -44,10 +45,12 @@
 **フレームワーク**：Next.js 15 (App Router) / React 19 / shadcn/ui v2 / Tailwind CSS / Vitest  
 **OS**：Linux (Debian) / Dockerコンテナ環境 / Dev Containers / MacOS  
 **DB**：Supabase (PostgreSQL, Auth, Storage) / SQL (関数, ビュー, RLS)  
-**ツール**：pnpm / Git/GitHub / ESLint / Zod / React Hook From / Resend (メール配信) / MCP (Sequential-thinking, Context7, GitHub, Supabase, Figma)  
+**ツール**：pnpm / Git/GitHub / GitHub Copilot / ESLint / Zod / React Hook From / Resend (メール配信) / MCP (Sequential-thinking, Context7, GitHub, Supabase, Figma)  
 
 #### 🔧 担当業務と工夫・成果
-- ビルドエラー解析、ロガーでpinoを構築
+- バグやシステム改善がAI活用することでスピードと品質が、体感今までの5倍ほど上がった
+- より高品質をより早いスピードで提供するためのプロンプトを常に試行錯誤
+- AIベースのより適したスキルを使用
 
 ---
 
