@@ -43,13 +43,32 @@
 
 ## 職務経歴
 
+### 📱 JCB「[MyJCB](https://apps.apple.com/jp/app/gr-app-gr%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%92-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%89%8B%E3%81%AE%E4%B8%AD%E3%81%AB/id6746425035)」ののリニューアル(iOS)
+**React NativeとHealthKit/Health Connectを活用し、iOS/Android両対応のヘルスアプリ開発に携わり、健康データ連携の技術知見を得た**
+
+**所属**：[キャンバスエッジ株式会社](https://canvasedge.co.jp/)
+**会社名**：[JCB](https://www.global.jcb/ja/)
+**期間**：2025-09-06〜20x-xx-xx  
+<!-- 担当フェーズでOPレビューとか、仕様の相談とか打診とか細かく書けるかもね -->
+**担当フェーズ**：要件定義 / 設計 / 実装 / テスト（ITa仕様書, 単体テスト, OS差分テスト）  
+**言語**：xx  
+**フレームワーク**：xx /   
+**OS**：MacOS  
+**ツール**：xx  
+
+#### 🔧 担当業務と工夫・成果
+- 
+- 
+
+---
+
 ### 📱 トヨタ「[GRapp](https://apps.apple.com/jp/app/gr-app-gr%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%92-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%89%8B%E3%81%AE%E4%B8%AD%E3%81%AB/id6746425035)」のリニューアル(iOS/Android)
 **React NativeとHealthKit/Health Connectを活用し、iOS/Android両対応のヘルスアプリ開発に携わり、健康データ連携の技術知見を得た**
 
 **所属**：[キャンバスエッジ株式会社](https://canvasedge.co.jp/)
 **会社名**：[トヨタ](https://toyota.jp/index.html)
 **期間**：2025-03-01〜2025-08-07  
-**担当フェーズ**：要件定義 / 設計 / 実装 / テスト  
+**担当フェーズ**：実装 / 単体テスト  
 **言語**：TypeScript / JavaScript / HTML / CSS  
 **フレームワーク**：ReactNative /   
 **OS**：MacOS  
